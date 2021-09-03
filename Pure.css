@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+header{
+    background-image: url(img/bg-header-desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 20%;
+    
+   text-align: center;
+   
+}
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo{
+    margin-left: 650px;
+    padding-bottom: 54px;
+}
+footer{
+    background-color: #f1f3f4;
+}
